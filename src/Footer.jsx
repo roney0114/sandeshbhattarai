@@ -71,9 +71,6 @@ function Footer() {
             </a>
           </div>
 
-          <a href="#home" className="back-top">
-            <FaArrowUp /> Back to Top
-          </a>
         </div>
       </div>
 
