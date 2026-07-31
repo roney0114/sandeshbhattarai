@@ -68,11 +68,11 @@ function Contact() {
             </div>
           </div>
 
-          <a href="mailto:b.sandeshbhattarai@gmail.com" className="contact-item contact-link">
+          <a href="mailto:contact@bsandesh.com.np" className="contact-item contact-link">
             <FaEnvelope className="contact-icon" />
             <div>
               <h4>Email</h4>
-              <span>b.sandeshbhattarai@gmail.com</span>
+              <span>contact@bsandesh.com.np</span>
             </div>
           </a>
 
